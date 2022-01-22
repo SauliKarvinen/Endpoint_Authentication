@@ -1,4 +1,4 @@
 # Endpoint_Authentication
 Learning endpoint authentication (JWT), postgreSQL and chai testing
 
-Run: npm run dev
+Run (port 3000): npm run dev
